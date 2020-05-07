@@ -2,9 +2,9 @@
 
 ## Automate Creating a Slideshow with Python
 
-- [ ] Read images from a folder
+- [x] Read images from a folder
 	- [ ] Sort by date
-	- [ ] Sort by name
+	- [x] Sort by name
 
 - [ ] Generate a video of images with no transitions
 	- control speed of image with a parameter
